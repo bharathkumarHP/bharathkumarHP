@@ -1,4 +1,4 @@
-Hi 👋 , i'm Bharath Kumar HP
+# 💫 About Me:
 •	Hi 👋 I’m Bharath Kumar, an aspiring Data Analyst with a strong interest in finding insights hidden in data.<br><br>•	💼 I’ve worked on projects involving data cleaning, visualization, and dashboard creation.<br><br>•	🌱 I’m learning  Python, Excel, SQL, Power BI, Tableau and basic machine learning to enhance my analytical skills.<br><br>•	💬 Ask me about anything related to data analytics or visualization!<br><br>•	💻 All of my projects are available on https://github.com/bharathkumarhp<br><br>•	⚡ Fun fact: I believe every dataset tells a story — you just need the right tools to read it.<br><br>•	📫 Let’s connect: https://linkedin.com/in/bharathkumarhp<br>
 
 
